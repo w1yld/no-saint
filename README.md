@@ -10,7 +10,7 @@
 1 (Vampirate Captain)
 disposition: 1d12
 | Attitude Roll | Total	Initial Attitude |
-+---------------+------------------------+
+|---------------|------------------------|
 | 4 or lower |	Hostile |
 | 5–8 |	Indifferent |
 | 9 or higher |	Friendly |
