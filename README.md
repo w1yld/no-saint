@@ -3,12 +3,12 @@
 ## Locations
 ### Wild Space
 #### Possible Encounter 1:
-1 (Giff Shock Trooper)
-1 (Neh-thalggu)
-1 (Psurlon Leader)
-1 (Solar Dragon Wyrmling)
-1 (Vampirate Captain)
-disposition: 1d12
+1 (Giff Shock Trooper) <br>
+1 (Neh-thalggu) <br>
+1 (Psurlon Leader) <br>
+1 (Solar Dragon Wyrmling) <br>
+1 (Vampirate Captain) <br>
+disposition: 1d12 <br>
 | Attitude Roll | Total	Initial Attitude |
 |---------------|------------------------|
 | 4 or lower |	Hostile |
@@ -17,14 +17,14 @@ disposition: 1d12
 
 ### Santo's Lair Entrance
 #### Encounter:
-Erdap(Bone Devil)
-Rytram(Horned Devil)
-Otnas(Ice Devil)
+Erdap(Bone Devil) <br>
+Rytram(Horned Devil) <br>
+Otnas(Ice Devil) <br>
 
 ### Santo's Lair
 #### Encounter:
-Soid (Red Abishai)
-2 Merregon
+Soid (Red Abishai) <br>
+2 Merregon <br>
 
 #### NPCs:
 Sane/Christian
