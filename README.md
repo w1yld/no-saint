@@ -15,13 +15,13 @@ disposition: 1d12 <br>
 | 5–8 |	Indifferent |
 | 9 or higher |	Friendly |
 
-### Santo's Lair Entrance
+### Soid's Lair Entrance
 #### Encounter:
 Erdap(Bone Devil) <br>
 Rytram(Horned Devil) <br>
 Otnas(Ice Devil) <br>
 
-### Santo's Lair
+### Soid's Lair
 #### Encounter:
 Soid (Red Abishai) <br>
 2 Merregon <br>
