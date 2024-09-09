@@ -3,11 +3,11 @@
 ## Locations
 ### Wild Space
 #### Possible Encounter 1:
-1 (Giff Shock Trooper) <br>
-1 (Neh-thalggu) <br>
-1 (Psurlon Leader) <br>
-1 (Solar Dragon Wyrmling) <br>
-1 (Vampirate Captain) <br>
+Jochdae (Giff Shock Trooper) <br>
+Lineya (Neh-thalggu) <br>
+Sarka (Psurlon Leader) <br>
+Sebar (Solar Dragon Wyrmling) <br>
+Limilo(Vampirate Captain) <br>
 disposition: 1d12 <br>
 | Attitude Roll | Total	Initial Attitude |
 |---------------|------------------------|
