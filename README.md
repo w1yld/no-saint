@@ -52,6 +52,7 @@ Otnas(Ice Devil) <br>
 Dios
 - Disappears as soon as the party arrives.
 - Possesses Christian
+
 Sane/Christian
 - Currently unconcious chained in the middle of the lair.
 - Is being possessed by Dios
