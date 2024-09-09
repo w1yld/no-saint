@@ -28,3 +28,4 @@ Soid (Red Abishai) <br>
 
 #### NPCs:
 Sane/Christian
+- Currently unconcious chained in the middle of the lair.
