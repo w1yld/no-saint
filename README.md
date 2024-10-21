@@ -42,7 +42,7 @@ Lineya (Neh-thalggu) <br>
 Sarka (Psurlon Leader) <br>
 Sebar (Solar Dragon Wyrmling) <br>
 Limilo(Vampirate Captain) <br>
-disposition: 1d12 <br>
+_**disposition: 1d12**_ <br>
 | Attitude Roll | Total	Initial Attitude |
 |---------------|------------------------|
 | 4 or lower |	Hostile |
